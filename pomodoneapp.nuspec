@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>pomodoneapp</id>
+    <version>1.5.1534</version>
+    <packageSourceUrl>https://github.com/mwanchap/choco-pomodoneapp</packageSourceUrl>
+    <owners>mwanchap</owners>
+    <title>PomoDoneApp</title>
+    <authors>Alex Mauzon, PomoDone App Team</authors>
+    <projectUrl>https://pomodoneapp.com/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/mwanchap/choco-pomodoneapp/master/icon.png</iconUrl>
+    <licenseUrl>https://pomodoneapp.com/terms-of-service.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>pomodoro productivity timer tool admin</tags>
+    <summary>Pomodoro timer for your favorite productivity tool</summary>
+    <description>PomoDone is the easiest way to track your workflow using Pomodoro technique, on top of your current task management service</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
