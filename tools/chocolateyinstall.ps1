@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://app.pomodoneapp.com/installers/PomoDoneApp%20Setup%201.5.1534.exe'
-$checksum   = '5C5CC6A6A1D198E6B19C9608DEBACC2F9DC998E92CDEF2104BC893A5EC07A5A6'
+$url        = 'https://theroundpie.com/assets/RoundPie-Setup-1.5.1545.exe'
+$checksum   = '6390503F32BBC6868DA9D0A2DB49F1B34568833F2B0C460D8814DBAFA261B03B'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName

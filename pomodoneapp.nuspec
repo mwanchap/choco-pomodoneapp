@@ -2,19 +2,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>pomodoneapp</id>
-    <version>1.5.1534</version>
+    <version>1.5.1545</version>
     <packageSourceUrl>https://github.com/mwanchap/choco-pomodoneapp</packageSourceUrl>
     <owners>mwanchap</owners>
-    <title>PomoDoneApp</title>
-    <authors>Alex Mauzon, PomoDone App Team</authors>
-    <projectUrl>https://pomodoneapp.com/</projectUrl>
+    <title>RoundPie App (formerly PomoDoneApp)</title>
+    <authors>Atgalaikas UAB</authors>
+    <projectUrl>https://theroundpie.com/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/mwanchap/choco-pomodoneapp/master/icon.png</iconUrl>
-    <licenseUrl>https://pomodoneapp.com/terms-of-service.html</licenseUrl>
+    <licenseUrl>https://theroundpie.com/terms-of-service.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>pomodoro productivity timer tool admin</tags>
     <summary>Pomodoro timer for your favorite productivity tool</summary>
-    <description>PomoDone is the easiest way to track your workflow using Pomodoro technique, on top of your current task management service</description>
-    <releaseNotes></releaseNotes>
+    <description>RoundPie (formerly PomoDone) is the easiest way to track your workflow using time management methodology (e.g. Pomodoro™ technique, invented by Francesco Cirillo), on top of your current task management service.</description>
+    <releaseNotes>Updated to better represent name change on software website.</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
